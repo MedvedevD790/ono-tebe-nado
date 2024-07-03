@@ -29,6 +29,11 @@ a {
   color: inherit;
 }
 
+object {
+  width: 148px; 
+  height: 105px;
+}
+
 img {
   width: 100%;
 }
